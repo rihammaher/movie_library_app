@@ -1,0 +1,10 @@
+# Do NOT upload the build folder
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+*.iml
+.DS_Store
+pubspec.lock
